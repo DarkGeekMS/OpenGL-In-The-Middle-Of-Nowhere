@@ -2,11 +2,12 @@
 
 ### Brief Description 
 
-This is a 3D game using OpenGL with C++. It's a primitive game created for Computer Graphics Course, where I only use simple 3d models and created shaders for some effects using OpenGL. It's about an explorer, in the middle of a forsaken forest (or farm) with some old houses in it, is trying to find an ancient key. He is all alone there at the middle of the night, where nothing but moon light guides him.
+This is a 3D game using OpenGL with C++. It's a primitive game created for Computer Graphics Course, where I only use simple 3d models and created shaders for some effects using GLSL. It's about an explorer, in the middle of a forsaken forest (or farm) with some old houses in it, is trying to find an ancient key. He is all alone there at the middle of the night, where nothing but moon light guides him.
 
 ### Utilized Technologies and Frameworks
 
 - C++ OpenGL Libraies, such as: GLFW, GLAD and GLM.
+- GLSL.
 - C++ tinyobjloader.
 - CMake.
 
