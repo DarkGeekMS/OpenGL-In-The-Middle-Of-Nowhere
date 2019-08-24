@@ -6,7 +6,7 @@ This is a 3D game using OpenGL with C++. It's a primitive game created for Compu
 
 ### Utilized Technologies and Frameworks
 
-- C++ OpenGL Libraies, such as: GLFW, GLAD and GLM.
+- C++ OpenGL Libraries, such as: GLFW, GLAD and GLM.
 - GLSL.
 - C++ tinyobjloader.
 - CMake.
